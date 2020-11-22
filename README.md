@@ -1,3 +1,9 @@
+This a basic React JS Application of Viewing Details of Currently Trending Movies/ TV Series
+It uses TMBD Api to get data
+[Note:This is not a streaming App. It is a Application which curates the currently trending Title on TMBD]
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
