@@ -2,7 +2,7 @@ This a basic React JS Application of Viewing Details of Currently Trending Movie
 It uses TMBD Api to get data.
 
 
-[Note:This is not a streaming App. It is a Application which curates the currently trending Title on TMBD]
+[Note:This is not a streaming App. It is a Application which curates the currently trending Titles from TMBD]
 
 
 
